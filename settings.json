@@ -1,0 +1,9 @@
+{
+    "welcome": {
+        "name": "Panel",
+        "size_byte": true
+    },
+    "language": {
+        "list": true
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "update",
+  "version": "1.0.0",
+  "description": "check update repositories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "maksim990",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "colors": "^1.4.0",
+    "request": "^2.88.2"
+  }
+}
